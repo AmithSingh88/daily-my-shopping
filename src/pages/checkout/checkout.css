@@ -1,0 +1,15 @@
+.cartParent{
+    background-color: #20201f;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.search{
+    outline: none;
+    border: none;
+    border-right: 1px solid #ccc;
+    width: 270px;
+}

@@ -1,0 +1,18 @@
+.rupee{
+    position: relative;
+    top: 21px;
+    left: 445px;
+}
+.btn1{
+    padding: 4px 10px;
+    margin: 1px;
+    border:2px solid #a197f7;
+    /* border-radius: 10px; */
+    margin-right: 13px;
+}
+.btn2{
+    padding: 5.8px 14px;
+    margin: 1px;
+    background-color:#a197f7;
+    color: aliceblue;
+}

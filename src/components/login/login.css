@@ -1,0 +1,84 @@
+.parent{
+    background-color: #20201f;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.login-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 384px;
+    height: 649px;
+    background:url('https://img.freepik.com/free-vector/template-banner-online-store-with-shopping-cart-with-purchases-boxes-delivery-from-supermarket-vector-illustration_548887-104.jpg?w=1380&t=st=1663496607~exp=1663497207~hmac=390c3be19b45dc36f2a08b992a8d028b292d94bd252baf13e4deeab7c2936514');
+    background-position-x: 70%;
+    background-size: cover;
+    border-radius: 10px;
+}
+/*  */
+
+.form-container {
+    background-color: rgba(255, 255, 255, 0.7);
+    width: 300px;
+    padding: 20px;
+    border-radius: 30px;
+
+}
+
+.cb {
+    position: relative;
+    top:4px; 
+    opacity: 0.7;
+    cursor: pointer;
+    height: 10px;
+    width: 10px;
+
+  }
+
+.input{
+    background:none;
+    color: rgb(0, 0, 0);
+    outline: none;
+    /* border: none; */
+    border-bottom : 2px solid gray;
+    width: 250px;
+    
+}
+
+.btn{
+    letter-spacing: 0.1rem;
+    width: 200px;
+    padding: 10px 30px;
+    border-radius: 20px;
+    background-color: #6e7fe4;
+    color: white;
+    /* margin: 13px; */
+    font-weight: 700;
+
+}
+
+.mail{
+    position: relative;
+    top: 36px;
+    right: 20px;
+    margin: 0;
+}
+
+.pass{
+    position: relative;
+    right:20px;
+    padding: 0;
+}
+
+.logo{
+    position: relative;
+    top: 26px;
+    left: 60px;
+    font-size: 30px;
+    
+}
+
